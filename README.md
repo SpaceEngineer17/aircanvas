@@ -9,6 +9,7 @@ Module Requirements:
  - OpenCV
  - PyGame (for playing sounds)
 
+Go to the directory where `magic.py` is.
 To run: `python magic.py` <br>
 > Tips:
  - 1. The plane of your hand's palm should be parallel to the camera.
